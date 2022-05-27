@@ -1,0 +1,1 @@
+docker build  -t webapi:latest -f ./src/webapi/Dockerfile .
